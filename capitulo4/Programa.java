@@ -6,5 +6,6 @@ class Programa{
 		minhaConta.deposita(1000.0);
 		
 		System.out.println("Saldo atual: " + minhaConta.consultaSaldo());
+		System.out.println("teste");
 	}
 }
